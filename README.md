@@ -1,3 +1,3 @@
 # hello-world
 Hello world example
-This is a chnage in the branch
+This is a change in the branch
